@@ -1,1 +1,3 @@
 # Seintiment_Analysis_Using_Text_Data
+The main.py reads text data and performs Sentiment Analysis on it and gives an output graph which shows all the emotions it poses. It also prints the vibe the text provides (Positive, Negative or Neutral).
+The twitter_analysis.py takes tweets from Twitter based on the keyword, max no. of tweets, the from date and the to date and perofrms Sentimental Analysis on them. The ouput format is same as main.py. The default parameters are Keyword - coronavirus, Max no. of tweets - 1500, From Date - 01/01/20 and To date - 30/04/20. They can be changed accoring to the requirement.
